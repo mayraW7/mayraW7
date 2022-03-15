@@ -40,10 +40,11 @@ I'm a Full Stack Web Developer Student Student
 
 <div>     
   
-##
+<div> 
   
-<div>  
+  
   ![Snake animation](https://github.com/montoyaaa/montoyaaa/blob/output/github-contribution-grid-snake.svg)
 </div>
+  
   
 
