@@ -16,16 +16,17 @@
 
 ##
  
-<div align="center">
+<div align="center"><br>
   <a href="https://github.com/montoyaaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=montoyaaa&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montoyaaa&layout=compact&langs_count=7&theme=city_lights"/>
 </div>
 
+## 
   
 <div align="left">
   
-<i>Follow me:</i><br>
+<i>Follow me:</i>
 
 <a href="https://www.linkedin.com/in/mayra-westphal-b3bb16233/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/mayrawestphal/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
