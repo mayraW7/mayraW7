@@ -1,22 +1,16 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-<div align="center" width="50">
-
-</div>
-
-You have finally discovered my Github profile. I'm a Full Stack Web Developer Student Student   <br>
+<h3>You have finally discovered my Github profile. I'm a Full Stack Web Developer Student Student <h3>  <br>
 
 <div align="left">
  
-<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ☕ lover of coffee and books.
 - 🚴🏼‍♀️ Curiosity: CrossFit and Cycling athlete.
-
-##
 
 </div>
 
@@ -27,7 +21,6 @@ You have finally discovered my Github profile. I'm a Full Stack Web Developer St
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montoyaaa&layout=compact&langs_count=7&theme=city_lights"/>
 </div>
 
-##  
   
 <div align="left">
   
@@ -39,10 +32,8 @@ You have finally discovered my Github profile. I'm a Full Stack Web Developer St
 
 </div>  
   
-  
 <div>     
 
-##  
   
 <div> 
   
