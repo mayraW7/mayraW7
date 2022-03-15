@@ -9,7 +9,7 @@ Please feel free to clone projects and raise issues if you think something could
 
 Happy Coding! 😊
 
-<div align="center">
+<div align="left">
 
   
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
@@ -22,7 +22,7 @@ I'm a Full Stack Web Developer Student Student
 - ☕ lover of coffee and books.
 - 🚴🏼‍♀️ Curiosity: CrossFit and Cycling athlete.
 
---
+##
 
 <i>Follow me:</i><br>
 
@@ -39,6 +39,8 @@ I'm a Full Stack Web Developer Student Student
 </div>
 
 <div>     
+
+##  
   
 <div> 
   
