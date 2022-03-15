@@ -4,17 +4,11 @@
 
 </div>
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone projects and raise issues if you think something could be better.
-
-Happy Coding! 😊
+You have finally discovered my Github profile. I'm a Full Stack Web Developer Student Student   <br>
 
 <div align="left">
-
-  
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-  
-I'm a Full Stack Web Developer Student Student  
+ 
+<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
@@ -24,13 +18,8 @@ I'm a Full Stack Web Developer Student Student
 
 ##
 
-<i>Follow me:</i><br>
-
-<a href="https://www.linkedin.com/in/mayra-westphal-b3bb16233/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/mayrawestphal/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://open.spotify.com/user/ouj5b98hhgcqnz2i9zoccrdu8?si=8fd1de5c81244abd" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-
 </div>
+
 
 <div align="center">
   <a href="https://github.com/montoyaaa">
@@ -38,6 +27,19 @@ I'm a Full Stack Web Developer Student Student
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montoyaaa&layout=compact&langs_count=7&theme=city_lights"/>
 </div>
 
+##  
+  
+<div align="left">
+  
+<i>Follow me:</i><br>
+
+<a href="https://www.linkedin.com/in/mayra-westphal-b3bb16233/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/mayrawestphal/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://open.spotify.com/user/ouj5b98hhgcqnz2i9zoccrdu8?si=8fd1de5c81244abd" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+
+</div>  
+  
+  
 <div>     
 
 ##  
