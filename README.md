@@ -10,7 +10,7 @@
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ☕ lover of coffee and books.
-- 🚴🏼‍♀️ Curiosity: CrossFit and Cycling athlete.
+
 
 </div><br>
 
