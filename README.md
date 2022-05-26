@@ -2,7 +2,7 @@
 
 <h3>You have finally discovered my Github profile. I'm a Full Stack Web Developer Student!🤓  <h3><br>
 
-<div align="left">
+<div align="center"><br>
  
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
