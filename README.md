@@ -15,7 +15,7 @@
 
 I'm currently studying **Cybersecurity at City College Dublin**, transitioning my career into the cybersecurity field while building on my previous background in technology, business and leadership.
 
-My current focus is on understanding how systems work, how they communicate, where they can become vulnerable — and, most importantly, how we can make them more secure. 🔎🛡️
+My current focus is on understanding how systems work, how they communicate, where they can become vulnerable and, most importantly, how we can make them more secure. 🔎🛡️
 
 * 🔐 Currently developing hands-on skills in **Cybersecurity, Vulnerability Assessment, Networking and Security Awareness**
 * 🧪 Building security labs with **Kali Linux, Nessus, Metasploitable 2 and VirtualBox**
@@ -34,7 +34,7 @@ I gained hands-on experience with:
 
 Through practical projects, I worked with **front-end and back-end development, databases, API integration, libraries, version control and modern development tools**.
 
-That experience taught me much more than how to write code — it strengthened my **programming logic, problem-solving, analytical thinking and understanding of how applications communicate behind the scenes**.
+That experience taught me much more than how to write code, it strengthened my **programming logic, problem-solving, analytical thinking and understanding of how applications communicate behind the scenes**.
 
 Now I'm taking that knowledge with me into cybersecurity. 🚀
 
@@ -50,7 +50,7 @@ Current mission:
 ```
 
 * 💪🏼 **Goal:** Keep learning, breaking things (ethically 😇), understanding why they broke, and learning how to secure them.
-* 📖 Usually somewhere between a cybersecurity lab and a good book.
+  
 * ☕ Powered by coffee, curiosity and probably too many browser tabs.
 
 </div>
