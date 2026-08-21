@@ -1,6 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-<h3>You have finally discovered my Github profile. I'm a Full Stack Web Developer Student!🤓  <h3>
+<h3>You have finally discovered my Github profile. Cybersecurity Student | Full-Stack Development Background | Building skills in Security, Networking & Vulnerability Management!🤓  <h3>
 
 <div align="left"><br>
  
