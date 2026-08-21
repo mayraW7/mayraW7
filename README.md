@@ -6,8 +6,9 @@
  
 <img alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> <br><br>
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 👨‍💻 Between 2021 and 2023 I had Comprehensive training in full-stack application development, building a strong foundation in programming logic, software architecture and problem-solving.
+- Gained hands-on experience with JavaScript, TypeScript, React, Node.js, REST APIs, PostgreSQL and SQL, using Git and GitHub for version control and project management.
+- Strengthened analytical and technical skills through practical projects involving front-end and back-end development, databases, API integration, libraries and modern development tools.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ☕ lover of coffee and books.
 
